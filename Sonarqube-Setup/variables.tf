@@ -1,0 +1,1 @@
+variable "google_domain_name" {}
